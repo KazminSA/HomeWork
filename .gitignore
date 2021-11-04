@@ -1,1 +1,4 @@
-.idea
+.sass
+bin/*
+admin/*
+config/*
